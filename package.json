@@ -1,0 +1,22 @@
+{
+  "name": "uuid-adv",
+  "version": "1.0.0",
+  "description": "Now you can get the uuid everytime you call the function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irtaza9/uuid-adv.git"
+  },
+  "keywords": [
+    "UUID"
+  ],
+  "author": "Irtaza Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irtaza9/uuid-adv/issues"
+  },
+  "homepage": "https://github.com/irtaza9/uuid-adv#readme"
+}
