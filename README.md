@@ -2,8 +2,6 @@
 
 Simple Module for generating uuid's
 
-![random-string](https://api.travis-ci.org/valiton/node-random-string.png "random-string")
-
 ## Getting Started
 Install the module with: `npm i uuid-adv`
 
